@@ -1,0 +1,25 @@
+STYLE GUIDE
+# Front-end Style Guide
+//Lets be as flexible and creative as we can be and also pay attention to details like sir Edward said.
+
+### Font
+
+- Family: Monument;
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+- blue rgb(204,35,76)
+
+- blue rgb(0,160,227)
+
+
+
+
