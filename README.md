@@ -9,3 +9,7 @@
 * Okolosi Michael 
 * Daniel Mbazu 
 
+
+## Page Developers
+* Okolosi Michael - Home Page 
+* Daniel Mbazu - Voting Page 
